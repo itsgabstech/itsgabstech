@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsgabstech
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning C++ e Java
+- 🌱 I’m currently learning C# e Java
 - 📫 You to reach me on gabrielavberto@gmail.com
 
 
